@@ -2,7 +2,7 @@ _**Soal** _
 
 1. Lakukan Perubahan Pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan pada penulisan tag??
 
-2. Apa Perbedaan dari tag <p >, dengan tag <br >,berikan penjelasannya!
+2. Apa Perbedaan dari tag <p >, dengan tag <br >,berikan penjelasannya! 
 
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
 
