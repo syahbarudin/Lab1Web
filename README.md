@@ -1,26 +1,40 @@
-Soal 
-1.	Lakukan Perubahan Pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan pada penulisan tag??
-2.	Apa Perbedaan dari tag <p >, dengan tag <br >,berikan penjelasannya!
-3.	Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
-4.	Untuk mengatur ukuran gambar,digunakan atribut widt dan height agar tampilan gambar proporsional sebaiknya kedua atribut diisi atau tidak?Berikan penjelasannya!
-5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing masing nilai atribut tersebut??
+_**Soal** _
+
+1. Lakukan Perubahan Pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan pada penulisan tag??
+
+2. Apa Perbedaan dari tag <p >, dengan tag <br >,berikan penjelasannya!
+
+3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
+
+4. Untuk mengatur ukuran gambar,digunakan atribut widt dan height agar tampilan gambar proporsional sebaiknya kedua atribut diisi atau tidak?Berikan penjelasannya!
+
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing masing nilai atribut tersebut??
+
 Jawab
-1.	Apabila kita melakukan kesalahan ataupun sengaja merubah kode seperti ini
+
+1. Apabila kita melakukan kesalahan ataupun sengaja merubah kode seperti ini
 ![image](https://github.com/syahbarudin/Lab1web/assets/146621192/d8619c8d-d9c6-4321-90fc-8f27dda4d842)
 
-Maka akan terjadi error dan website pun tidak akan menampilkan apa apa
+ Maka akan terjadi error dan website pun tidak akan menampilkan apa apa
+
 ![image](https://github.com/syahbarudin/Lab1web/assets/146621192/d8b3feda-9722-4734-ab13-93b13777f837)
 
-2.	Tag <p> dan <br> sama sama merupakan tag dalam membuat paragraf, namun bedanya berada pada penggunaannya dimana tag <p> selalu memiliki penutup yaitu </p> sedangkan tag <br> tidak memiliki penutup
-3.	Title digunakan untuk mengambil gambar berdasarkan judul gambarnya, sedangkan alt digunakan untuk mengambil gambar berdasarkan dekripsi gambar itu sendiri.
-4.	Tidak perlu diisi keduanya, karena jika salah satu nilai entah itu widht ataupun height sudah sesuai keinginan maka hanya perlu mengisi salah satunya saja atau bahkan bisa tanpa mengisi keduanya
-5.	Menggunakan Atribut target
+ 2.	Tag <p> dan <br> sama sama merupakan tag dalam membuat paragraf, namun bedanya berada pada penggunaannya dimana tag <p> selalu memiliki penutup yaitu </p> sedangkan tag <br> tidak memiliki penutup
+ 3.	Title digunakan untuk mengambil gambar berdasarkan judul gambarnya, sedangkan alt digunakan untuk mengambil gambar berdasarkan dekripsi gambar itu sendiri.
+ 4.	Tidak perlu diisi keduanya, karena jika salah satu nilai entah itu widht ataupun height sudah sesuai keinginan maka hanya perlu mengisi salah satunya saja atau bahkan bisa tanpa mengisi keduanya
+ 5.	Menggunakan Atribut target
 Atribut ini berfungsi untuk menentukan target dari pembukaan link. Ada beberapa target yang biasanya digunakan:
+
 •	_blank akan membuka link pada jendela atau tab baru;
+
 •	_self akan membuka link pada halaman itu sendiri (default target);
+
 •	_top menuju bagian paling atas pada halaman;
+
 •	_parent membuka link pada frame induk;
+
 nama-frame akan membuka link pada <iframe> dengan nama tertentu;
+
 ![image](https://github.com/syahbarudin/Lab1web/assets/146621192/60f380fd-163b-4d7b-9b72-bb4b6945f29c)
 
 ![image](https://github.com/syahbarudin/Lab1web/assets/146621192/36fa63a4-e652-495e-8257-8b51de628cbd)
